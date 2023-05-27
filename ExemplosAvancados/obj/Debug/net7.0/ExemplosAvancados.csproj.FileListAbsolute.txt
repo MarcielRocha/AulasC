@@ -1,0 +1,15 @@
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\bin\Debug\net7.0\ExemplosAvancados.exe
+c:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\bin\Debug\net7.0\ExemplosAvancados.deps.json
+c:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\bin\Debug\net7.0\ExemplosAvancados.runtimeconfig.json
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\bin\Debug\net7.0\ExemplosAvancados.dll
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\bin\Debug\net7.0\ExemplosAvancados.pdb
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ExemplosAvancados.csproj.AssemblyReference.cache
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ExemplosAvancados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ExemplosAvancados.AssemblyInfoInputs.cache
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ExemplosAvancados.AssemblyInfo.cs
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ExemplosAvancados.csproj.CoreCompileInputs.cache
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ExemplosAvancados.dll
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\refint\ExemplosAvancados.dll
+C:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ExemplosAvancados.pdb
+c:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ExemplosAvancados.genruntimeconfig.cache
+c:\Users\msft52\Downloads\Version Control\AulaPratica3\ExemplosAvancados\obj\Debug\net7.0\ref\ExemplosAvancados.dll
